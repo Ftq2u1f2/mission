@@ -1,9 +1,5 @@
 ﻿<!DOCTYPE html>
 <htmi lang='ja'>
-
-<!-- 削除・編集機能を持ち, 投稿ごとにパスワードロックのある掲示板.
-     投稿内容はMySQLのテーブルと連携. -->
-
 <head>
   <meta http-equiv='content-type' charset='UTF-8'>
   <title>BBS.html</title>
