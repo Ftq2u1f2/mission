@@ -1,4 +1,4 @@
-BBS.php
+BBS
 ====
 
 Bulletin board with delete / edit function and password lock for each post.
